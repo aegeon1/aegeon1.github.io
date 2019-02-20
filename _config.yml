@@ -30,9 +30,6 @@ theme: merlot
 #remote_theme: agusmakmun/agusmakmun.github.io
 =======
 theme: minima
-remote_theme: agusmakmun/agusmakmun.github.io
->>>>>>> parent of 323a3f7... theme
-
 plugins:
   - jekyll-feed
 
