@@ -25,8 +25,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-# theme: minima
-remote_theme: agusmakmun/agusmakmun.github.io
+theme: merlot
+#remote_theme: agusmakmun/agusmakmun.github.io
 
 plugins:
   - jekyll-feed
