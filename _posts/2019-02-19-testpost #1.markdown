@@ -1,0 +1,6 @@
+2019-02-19 Test post #1.markdown
+
+##Hello this is a test##
+
+Not sure if this will be added to posts but let's find out.
+I guess i'll try to upload via Atom/Git.
