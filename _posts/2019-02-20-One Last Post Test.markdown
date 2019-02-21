@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Just use this theme"
+title:  "One Last Post Test"
 date:   2019-02-20
 categories: jekyll update
 ---
 
-Okay, there are lots of themes, but they are tricky to use, as some
-jekyll gems are out of date and break the sites
+One last post test, then i give up.
 
-There are other peoples projects you can fork , however , they tend
-to have complex html code and hard to modify.
+btw, where's the markdown support
 
-So f*** it, just use the default minima theme and when i have free
-time I'll try to modify it, for now i'll just focus on blogging or
-what have you.
+#header1 right #
+and
+##header2 right?#
+how about dashes
+--dashes2--
 
-Cheers,
+does this do anyhing *sigh* whatever...
 
-PG
+-PG
