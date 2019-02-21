@@ -1,5 +1,8 @@
 ---
 layout: post
+title:  "Just use this theme, i guess..."
+date:   2019-02-20
+categories: jekyll update
 ---
 
 Okay, there are lots of themes, but they are tricky to use, as some
