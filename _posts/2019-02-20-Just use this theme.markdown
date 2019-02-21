@@ -1,7 +1,3 @@
-layout: post
-title:  "Just use this theme"
-date:   2019-02-20
-categories: jekyll update
 
 Okay, there are lots of themes, but they are tricky to use, as some
 jekyll gems are out of date and break the sites
