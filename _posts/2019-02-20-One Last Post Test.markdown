@@ -15,6 +15,6 @@ and
 how about dashes
 --dashes2--
 
-does this do anyhing *sigh* whatever...
+does this do anything *sigh* whatever...
 
 -PG
