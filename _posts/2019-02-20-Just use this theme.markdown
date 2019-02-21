@@ -1,3 +1,6 @@
+---
+layout: post
+---
 
 Okay, there are lots of themes, but they are tricky to use, as some
 jekyll gems are out of date and break the sites
