@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Just use this theme, i guess..."
+title:  "Just use this theme"
 date:   2019-02-20
 categories: jekyll update
 ---
@@ -15,6 +15,6 @@ So f*** it, just use the default minima theme and when i have free
 time I'll try to modify it, for now i'll just focus on blogging or
 what have you.
 
-regards,
+Cheers,
 
 PG
