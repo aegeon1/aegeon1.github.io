@@ -16,3 +16,5 @@ layout: home
 
     <link rel="micropub" href="https://jekyll-micropub-to-github.herokuapp.com/micropub/main">
 #
+
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
