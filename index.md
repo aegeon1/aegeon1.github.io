@@ -2,6 +2,11 @@
 layout: home
 ---
 
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+
+<link rel="micropub" href="https://aegeon1.github.io/micropub">
+
+#
     <link href="https://micro.blog/aegeon1" rel="me" />
 
 
@@ -10,3 +15,4 @@ layout: home
     <link href="https://github.com/aegeon1" rel="me">
 
     <link rel="micropub" href="https://jekyll-micropub-to-github.herokuapp.com/micropub/main">
+#
