@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rice Cooker - Japanese braised pork belly
+title: Ricecooker_Japanese_braised_pork_belly
 persons: 4
 image: kaiserschmarrn.jpg
 ---
