@@ -21,7 +21,9 @@ Yummyness: extreme
 - 150ml whipping cream (35%)
 - 30gram ground coco nibs
 - 1lemon
-- 1tbsp vanilla extract
+- 1tbsp vanilla extract  
+
+<img src="https://thehealthyfoodie.com/wp-content/uploads/2017/09/Coconut-Matcha-Cheesecake-16.jpg" alt="drawing" width="300"> 
 
 ## Directions
 
