@@ -5,20 +5,16 @@ persons: 4
 image: kaiserschmarrn.jpg
 ---
 
-Link: <a ref="http://dailycookingquest.com/by-ingredient/chicken/japanese-chicken-curry-with-homemade-curry-roux"> Chicken Curry with homemade Roux </a>
-Tags: Dinner
+Link: <a ref="http://dailycookingquest.com/by-ingredient/chicken/japanese-chicken-curry-with-homemade-curry-roux"> Chicken Curry with homemade Roux </a>  
+Tags: Dinner  
 Yummyness: satisfying
 
 # Japanese Chicken Curry
 
 Author: Daily Cooking Quest
-
 Prep time: 30 mins
-
 Cook time: 1 hour
-
 Total time: 1 hour 30 mins
-
 Serves: 4
 
 ![](http://dailycookingquest.com/wp-content/uploads/2014/01/japanese_curry2.jpg)

@@ -18,7 +18,7 @@ Yummyness: extreme
 - 4Tbp or 70mg Peanut Butter
 - 2oz Cashews, chopped
 
-![](http://www.lindsaypleskot.com/wp-content/uploads/2016/11/chocolate-3.jpg)
+<img src="http://www.lindsaypleskot.com/wp-content/uploads/2016/11/chocolate-3.jpg" alt="drawing" width="400">
 
 ## Directions
 
