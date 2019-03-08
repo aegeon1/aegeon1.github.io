@@ -1,11 +1,11 @@
 ---
 layout: post
-title:Rice Cooker Matcha Cheesecake
+title: Rice Cooker Matcha Cheesecake
 persons: 4
 image: kaiserschmarrn.jpg
 ---
 
-Link: <a ref="https://kirbiecravings.com/rice-cooker-japanese-cheesecake"> Kirbie Cravings Cheesecake </a>
+Link: <a ref="https://kirbiecravings.com/rice-cooker-japanese-cheesecake"> Kirbie Cravings Cheesecake </a>  
 Tags: Dessert
 Yummyness: extreme
 
