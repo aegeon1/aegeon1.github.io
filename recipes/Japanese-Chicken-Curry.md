@@ -11,11 +11,11 @@ Yummyness: satisfying
 
 # Japanese Chicken Curry
 
-Author: Daily Cooking Quest
-Prep time: 30 mins
-Cook time: 1 hour
-Total time: 1 hour 30 mins
-Serves: 4
+Author: Daily Cooking Quest  
+Prep time: 30 mins  
+Cook time: 1 hour  
+Total time: 1 hour 30 mins  
+Serves: 4  
 
 ![](http://dailycookingquest.com/wp-content/uploads/2014/01/japanese_curry2.jpg)
 
