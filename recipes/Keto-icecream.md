@@ -5,8 +5,6 @@ persons: 4
 image: kaiserschmarrn.jpg
 ---
 
-
-
 Tags: Dessert
 Yummyness: satisfying
 
