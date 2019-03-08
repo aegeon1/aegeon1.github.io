@@ -5,7 +5,6 @@ persons: 4
 image: kaiserschmarrn.jpg
 ---
 
-
 Link: <a href="http://the-wadas.com/super-easy-rice-cooker-recipe-kakuni/"> The Wadas Page </a>  
 Tags: Dinner  
 Yummyness: satisfying  
