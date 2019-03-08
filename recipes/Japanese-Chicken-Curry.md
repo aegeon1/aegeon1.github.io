@@ -5,7 +5,7 @@ persons: 4
 image: kaiserschmarrn.jpg
 ---
 
-Link: http://dailycookingquest.com/by-ingredient/chicken/japanese-chicken-curry-with-homemade-curry-roux
+Link: <a ref="http://dailycookingquest.com/by-ingredient/chicken/japanese-chicken-curry-with-homemade-curry-roux"> Chicken Curry with homemade Roux </a>
 Tags: Dinner
 Yummyness: satisfying
 

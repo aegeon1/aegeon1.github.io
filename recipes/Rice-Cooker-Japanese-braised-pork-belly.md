@@ -14,7 +14,6 @@ Yummyness: satisfying
 ## Easy Recipe for Kakuni
 
 ## Ingredients
-
 – pork belly (400 grams)
 – “sake” for cooking or[ red wine] (100 ml)
 – water (400 ml)
