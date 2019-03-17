@@ -12,6 +12,6 @@ Just like John Catucci, but you know... Inti ... and she must eat these things i
 3. Beef-u, onegaishimasu - 
 4. Katsu-don @ Maisen Tonkasu - various locations TBD , or other restaurants
 5. Izayaku @ ??? - Wherever Ken brings us 
-6. Conveyor Belt sushi @ TBD - see my Yelp bookmarks
+6. Sushi, conveyor belt @ TBD - see my Yelp bookmarks
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
