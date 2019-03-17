@@ -9,8 +9,10 @@ Obviously we have a set itinerary i.e. flights, hotels, perhaps train trips ... 
 
 1. Kitchen stores - lots in Asakusa, in Kappa pa bashi - dori , we look on 1st night or right after sensoji temple
 2. Sake vending machine - at Tokyo Shoten - which is near Ryogoku Station (near sumo stadium)
-3. Indigo dyeing - check the Asakusa tourist center
-4. 
+3. Calligraphy - check the Asakusa tourist center
+4. Indigo Dyeing - In Kyoto 
+5. Getting a Name stamp at Don Quiote - perhaps Ginza only or check if other locations
+
 
 
 
