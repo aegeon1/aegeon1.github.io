@@ -8,7 +8,7 @@ Just like John Catucci, but you know... Inti ... and she must eat these things i
 1.Ramen @ Ichiran Ramen (Shubuya or Asakusa ... or probably everywhere)
 2. BBQ eel @ Irokawa / Hatsuogawa / Maekawa - (this one is for hubs) @ Asakusa
 3. Beef-u, onegaishimasu - 
-4. Katsu-don @ ??? TBD
+4. Katsu-don @ Maisen Tonkasu - various locations TBD , or other restaurants
 5. Izayaku @ ??? - Wherever Ken brings us 
 6. 
 
