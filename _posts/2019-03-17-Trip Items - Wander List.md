@@ -15,6 +15,10 @@ Obviously we have a set itinerary i.e. flights, hotels, perhaps train trips ... 
 7. Making / seeing Pickles in Nikko likely
 8. Buy stuff at dollar store - i.e. toiletries like body wash, fash wash, etc.
 9. souvenir stuff at dollar store - heat pads, stationary , magnets that look like sushi, 
+10. Leather goods - i.e. Wallet for hubs to hold japanese Yen (tokyo hands?/ Loft) , Shoes for baby
+11. Buy Sake
+12. Buy Kit kat, where's the kit kat store?
+
 
 
 
