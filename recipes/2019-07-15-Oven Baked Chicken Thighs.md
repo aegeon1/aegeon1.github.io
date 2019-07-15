@@ -9,7 +9,7 @@
 - rosemary
 - oil olive
 
-![]({{site.baseurl}}/https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwinq8mbtbfjAhWod98KHcrEDA8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.spendwithpennies.com%2Fbaked-chicken-thighs%2F&psig=AOvVaw0itTSsJrlGu9slRRi-0R1z&ust=1563296975317242)
+![]({{site.baseurl}}/https://www.yellowblissroad.com/wp-content/uploads/2018/02/Crispy-Baked-Chicken-Thighs-2-of-3.webp)
 
 ## Directions
 
