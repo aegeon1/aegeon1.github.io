@@ -1,4 +1,4 @@
-# Oven Roast Chicken Thighs
+# Oven Baked Chicken Thighs
 
 ## Ingredients
 
